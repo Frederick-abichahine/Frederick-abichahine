@@ -1,9 +1,8 @@
-![](https://i.gifer.com/5VsC.gif)
+[![MasterHead](https://gifer.com/embed/9vie)](https://frederick-abichahine.io)
 <h1 align="center">Hello World👋, I'm Frederick Abi Chahine</h1>
 <h3 align="center">The more you know the more you realize you do not know.</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/4c/bc/9c/4cbc9ce6e8c9a951ae5b9f366aef5e69.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/4c/bc/9c/4cbc9ce6e8c9a951ae5b9f366aef5e69.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frederick-abichahine" alt="frederick-abichahine" /></a> </p>
 
 - 🔭 I’m currently working in **SE Factory & LAU**
 
@@ -31,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frederick-abichahine&show_icons=true&locale=en" alt="frederick-abichahine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frederick-abichahine&" alt="frederick-abichahine" /></p>
+
