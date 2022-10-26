@@ -1,7 +1,6 @@
-[![MasterHead](https://gifer.com/embed/9vie)](https://frederick-abichahine.io)
 <h1 align="center">Hello World👋, I'm Frederick Abi Chahine</h1>
 <h3 align="center">The more you know the more you realize you do not know.</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/4c/bc/9c/4cbc9ce6e8c9a951ae5b9f366aef5e69.gif">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/4c/bc/9c/4cbc9ce6e8c9a951ae5b9f366aef5e69.gif">
 
 
 - 🔭 I’m currently working in **SE Factory & LAU**
