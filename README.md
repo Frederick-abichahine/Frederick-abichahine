@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Frederick Abi Chahine 👋</h1>
 <h3 align="center">{ Seeking & Spilling Knowledge }</h3>
-<img align="center" width="100%" height="350" alt="Coding" src="https://newtstudios.com/wp-content/uploads/2021/02/neuron_frame_04.gif">
+<img align="center" width="100%" height="300" alt="Coding" src="https://newtstudios.com/wp-content/uploads/2021/02/neuron_frame_04.gif">
 
 ### 📌About myself:
 <hr>
@@ -8,7 +8,7 @@
 1) Bioinformatics senior student at the Lebanese American University (LAU)
 2) Working at SE Factory as an Algorithms & Data Structures Instructor
 3) Working at LAU as an Object-Oriented Programming Instructor
-4) Researcher at LAU
+4) Researching to improve Kidney Fibrosis Prediction at LAU
 5) Delving deeper into Convolutional Neural Networks & Full Stack Web Development
 6) Sipping tea & blasting music while firing my neurons
 
@@ -16,7 +16,7 @@
 <hr>
 
 1) Machine Leaning / Deep Learning
-2) Data Science
+2) Data Science / Network Science
 3) Computational Neuroscience 
 4) Computational Immunology
 5) Full-Stack Web Development
