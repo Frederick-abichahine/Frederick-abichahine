@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Frederick Abi Chahine 👋</h1>
 <h3 align="center">{ Seeking & Spilling Knowledge }</h3>
-<img align="center" width="100%" height="300" alt="Coding" src="https://newtstudios.com/wp-content/uploads/2021/02/neuron_frame_04.gif">
+<img align="center" width="100%" height="300" alt="Coding" src="Assets/glitchy_neuron.gif">
 
 ### 📌About myself:
 <hr>
