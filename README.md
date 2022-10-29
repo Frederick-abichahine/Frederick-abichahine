@@ -5,12 +5,13 @@
 ### 📌About myself:
 <hr>
 
-1) Bioinformatics senior student at the Lebanese American University (LAU)
-2) Working at SE Factory as an Algorithms & Data Structures Instructor
-3) Working at LAU as an Object-Oriented Programming Instructor
-4) Researching to improve Kidney Fibrosis Prediction at LAU
-5) Delving deeper into Convolutional Neural Networks & Full Stack Web Development
-6) Sipping tea & blasting music while firing my neurons
+1) Bioinformatics senior student at the <a href="https://www.lau.edu.lb/">Lebanese American University (LAU) </a>
+2) <a href="https://instagram.com/fred_draws">Pencil artist </a> & chess player
+3) Working at <a href="https://sefactory.io/">SE Factory </a> as an Algorithms & Data Structures Instructor
+4) Working at LAU as an Object-Oriented Programming Instructor
+5) Researching to improve Kidney Fibrosis Prediction at LAU
+6) Delving deeper into Convolutional Neural Networks & Full Stack Web Development
+7) Sipping tea & blasting music while firing my neurons
 
 ### 📌My interests:
 <hr>
