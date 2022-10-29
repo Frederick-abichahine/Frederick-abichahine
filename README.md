@@ -40,5 +40,6 @@
 
 ### 📌Some statistics:
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frederick-abichahine&show_icons=true&locale=en" alt="frederick-abichahine" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frederick-abichahine&" alt="frederick-abichahine" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frederick-abichahine&show_icons=true&theme=radical&locale=en" alt="frederick-abichahine" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frederick-abichahine&theme=radical" alt="frederick-abichahine" /></p>
