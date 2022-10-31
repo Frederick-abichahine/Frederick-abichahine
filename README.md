@@ -23,7 +23,7 @@
 5) Full-Stack Web Development
 6) *and more...*
 
-### 📌Reach out & connect with me to share & discuss inovative ideas:
+### <img align="center" width="5%" alt="network" src="Assets/network.gif"> Reach out & connect with me to share & discuss inovative ideas:
 <hr>
 <p align="left">
 <a href="https://twitter.com/fredabichahine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fredabichahine" height="30" width="40" /></a>
