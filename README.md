@@ -2,7 +2,7 @@
 <h3 align="center">{ Seeking & Spilling Knowledge }</h3>
 <img align="center" width="100%" height="300" alt="Coding" src="Assets/glitchy_neuron.gif">
 
-### 📌About myself:
+### <img align="center" width="5%" alt="chess" src="Assets/chess.gif"> About myself:
 <hr>
 
 1) Bioinformatics senior student at the <a href="https://www.lau.edu.lb/">Lebanese American University (LAU) </a>
