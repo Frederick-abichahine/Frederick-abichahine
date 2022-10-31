@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Frederick Abi Chahine 👋</h1>
+<h1 align="center">Hello World, I'm Frederick Abi Chahine <img align="center" width="7%" alt="wave" src="Assets/wave.gif"></h1>
 <h3 align="center">{ Seeking & Spilling Knowledge }</h3>
 <img align="center" width="100%" height="300" alt="Coding" src="Assets/glitchy_neuron.gif">
 
