@@ -13,7 +13,7 @@
 6) Delving deeper into Convolutional Neural Networks & Full Stack Web Development
 7) Sipping tea & blasting music while firing my neurons
 
-### 📌My interests:
+### <img align="center" width="5%" alt="programmer" src="Assets/programmer.gif"> My interests:
 <hr>
 
 1) Machine Leaning / Deep Learning
