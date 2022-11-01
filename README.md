@@ -5,23 +5,23 @@
 ### <img align="center" width="5%" alt="chess" src="Assets/chess.gif"> About myself:
 <hr>
 
-1) Bioinformatics senior student at the <a href="https://www.lau.edu.lb/">Lebanese American University (LAU) </a>
-2) <a href="https://instagram.com/fred_draws">Pencil artist </a> & chess player
-3) Working at <a href="https://sefactory.io/">SE Factory </a> as an Algorithms & Data Structures Instructor
-4) Working at LAU as an Object-Oriented Programming Instructor
-5) Researching to improve Kidney Fibrosis Prediction at LAU
-6) Delving deeper into Convolutional Neural Networks & Full Stack Web Development
-7) Sipping tea & blasting music while firing my neurons
+<img align="center" width="3%" alt="one" src="Assets/one.gif"> Bioinformatics senior student at the <a href="https://www.lau.edu.lb/">Lebanese American University (LAU) </a> <br/>
+<img align="center" width="3%" alt="two" src="Assets/two.gif"> <a href="https://instagram.com/fred_draws">Pencil artist </a> & chess player <br/>
+<img align="center" width="3%" alt="three" src="Assets/three.gif"> Working at <a href="https://sefactory.io/">SE Factory </a> as an Algorithms & Data Structures Instructor <br/>
+<img align="center" width="3%" alt="four" src="Assets/four.gif"> Working at LAU as an Object-Oriented Programming Instructor <br/>
+<img align="center" width="3%" alt="five" src="Assets/five.gif"> Researching to improve Kidney Fibrosis Prediction at LAU <br/>
+<img align="center" width="3%" alt="six" src="Assets/six.gif"> Delving deeper into Convolutional Neural Networks & Full Stack Web Development <br/>
+<img align="center" width="3%" alt="seven" src="Assets/seven.gif"> Sipping tea & blasting music while firing my neurons
 
 ### <img align="center" width="5%" alt="programmer" src="Assets/programmer.gif"> My interests:
 <hr>
 
-1) Machine Leaning / Deep Learning
-2) Data Science / Network Science
-3) Computational Neuroscience 
-4) Computational Immunology
-5) Full-Stack Web Development
-6) *and more...*
+<img align="center" width="3%" alt="one" src="Assets/one.gif"> Machine Leaning / Deep Learning <br/>
+<img align="center" width="3%" alt="two" src="Assets/two.gif"> Data Science / Network Science <br/>
+<img align="center" width="3%" alt="three" src="Assets/three.gif"> Computational Neuroscience <br/>
+<img align="center" width="3%" alt="four" src="Assets/four.gif"> Computational Immunology <br/>
+<img align="center" width="3%" alt="five" src="Assets/five.gif"> Full-Stack Web Development <br/>
+<img align="center" width="3%" alt="six" src="Assets/six.gif"> *and more...*
 
 ### <img align="center" width="5%" alt="network" src="Assets/network.gif"> Reach out & connect with me to share & discuss inovative ideas:
 <hr>
