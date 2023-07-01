@@ -5,7 +5,7 @@
 ### <img align="center" width="5%" alt="chess" src="Assets/chess.gif"> About myself:
 <hr>
 
-<img align="center" width="3%" alt="one" src="Assets/one.gif"> Bioinformatics senior student at the <a href="https://www.lau.edu.lb/">Lebanese American University (LAU) </a> <br/>
+<img align="center" width="3%" alt="one" src="Assets/one.gif"> B.Sc. in Bioinformatics from the <a href="https://www.lau.edu.lb/">Lebanese American University (LAU) </a> <br/>
 <img align="center" width="3%" alt="two" src="Assets/two.gif"> <a href="https://instagram.com/fred_draws">Pencil artist </a> & chess player <br/>
 <img align="center" width="3%" alt="three" src="Assets/three.gif"> Working at <a href="https://sefactory.io/">SE Factory </a> as an Algorithms & Data Structures Instructor <br/>
 <img align="center" width="3%" alt="four" src="Assets/four.gif"> Working at LAU as an Object-Oriented Programming Instructor <br/>
