@@ -9,7 +9,7 @@
 <img align="center" width="3%" alt="two" src="Assets/two.gif"> <a href="https://instagram.com/fred_draws">Pencil artist </a> & chess player <br/>
 <img align="center" width="3%" alt="three" src="Assets/three.gif"> Working at <a href="https://sefactory.io/">SE Factory </a> as an Algorithms & Data Structures Instructor <br/>
 <img align="center" width="3%" alt="four" src="Assets/four.gif"> Working at LAU as an Object-Oriented Programming Instructor <br/>
-<img align="center" width="3%" alt="five" src="Assets/five.gif"> Researching to improve Kidney Fibrosis Prediction at LAU <br/>
+<img align="center" width="3%" alt="five" src="Assets/five.gif"> Researching to improve Anti-Microbial Resistance prediction using deep CNNs at LAU <br/>
 <img align="center" width="3%" alt="six" src="Assets/six.gif"> Delving deeper into Convolutional Neural Networks & Full Stack Web Development <br/>
 <img align="center" width="3%" alt="seven" src="Assets/seven.gif"> Sipping tea & blasting music while firing my neurons
 
