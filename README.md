@@ -32,7 +32,7 @@
 <a href="https://www.hackerrank.com/freddyabichahine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="freddyabichahine" height="30" width="40" /></a>
 </p>
 
-**frederickabichahine@gmail.com** | **frederick.abichahine@lau.edu**
+**frederickabichahine@gmail.com** | **frederick.abichahine@studenti.unitn.it** | **frederick.abichahine@lau.edu**
 
 ### <img align="center" width="5%" alt="gear" src="Assets/program.gif"> Languages:
 <hr>
