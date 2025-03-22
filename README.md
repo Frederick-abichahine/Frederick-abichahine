@@ -7,17 +7,16 @@
 
 <img align="center" width="3%" alt="one" src="Assets/one.gif"> M.Sc. in Quantitative & Computational Biology from the <a href="https://www.unitn.it/en">University of Trento </a> <br/>
 <img align="center" width="3%" alt="two" src="Assets/two.gif"> B.Sc. in Bioinformatics from the <a href="https://www.lau.edu.lb/">Lebanese American University (LAU) </a> <br/>
-<img align="center" width="3%" alt="three" src="Assets/three.gif"> Software Engineer at <a href="https://www.bcomsat.com/">BCom Offshore </a> <br/>
-<img align="center" width="3%" alt="four" src="Assets/four.gif"> Algorithms & Data Structures Instructor at <a href="https://sefactory.io/">SE Factory </a> <br/>
-<img align="center" width="3%" alt="five" src="Assets/five.gif"> <a href="https://instagram.com/fred_draws">Pencil artist </a> & chess player <br/>
-<img align="center" width="3%" alt="six" src="Assets/six.gif"> Researching to improve Anti-Microbial Resistance prediction using deep CNNs at LAU <br/>
-<img align="center" width="3%" alt="seven" src="Assets/seven.gif"> Sipping tea & blasting music while firing my neurons
+<img align="center" width="3%" alt="three" src="Assets/three.gif"> <a href="https://instagram.com/fred_draws">Pencil artist </a> & chess player <br/>
+<img align="center" width="3%" alt="four" src="Assets/four.gif"> Delving deeper into the realm of neuroscience </a> <br/>
+<img align="center" width="3%" alt="five" src="Assets/five.gif"> Researching to improve Anti-Microbial Resistance prediction using deep CNNs <br/>
+<img align="center" width="3%" alt="six" src="Assets/six.gif"> Sipping tea & blasting music while firing my neurons
 
 ### <img align="center" width="5%" alt="programmer" src="Assets/programmer.gif"> My interests:
 <hr>
 
-<img align="center" width="3%" alt="one" src="Assets/one.gif"> Machine Leaning / Deep Learning <br/>
-<img align="center" width="3%" alt="two" src="Assets/two.gif"> Data Science / Network Science <br/>
+<img align="center" width="3%" alt="one" src="Assets/one.gif"> Machine Leaning & Artificial Intelligence <br/>
+<img align="center" width="3%" alt="two" src="Assets/two.gif"> Network & Data Science <br/>
 <img align="center" width="3%" alt="three" src="Assets/three.gif"> Computational Neuroscience <br/>
 <img align="center" width="3%" alt="four" src="Assets/four.gif"> Computational Immunology <br/>
 <img align="center" width="3%" alt="five" src="Assets/five.gif"> Software Engineeing <br/>
