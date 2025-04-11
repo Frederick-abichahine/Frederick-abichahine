@@ -44,37 +44,37 @@
 > Languages
 
 <div display="flex">
-  <img src="./Assets/languages/python.svg" height="40" alt="Python" title="Python"/>
-  <img src="./Assets/languages/bash.svg" height="40" alt="Bash" title="Bash"/>
-  <img src="./Assets/languages/r.svg" height="40" alt="R" title="R"/>
-  <img src="./Assets/languages/perl.svg" height="40" alt="Perl" title="Perl"/>
-  <img src="./Assets/languages/php.svg" height="40" alt="PHP" title="PHP"/>
-  <img src="./Assets/languages/java.svg" height="40" alt="Java" title="Java"/>
-  <img src="./Assets/languages/sql.svg" height="40" alt="SQL" title="SQL"/>
-  <img src="./Assets/languages/javascript.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="./Assets/languages/typescript.svg" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="./Assets/languages/html5.svg" height="40" alt="HTML5" title="HTML5"/>
-  <img src="./Assets/languages/css3.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img src="./Assets/languages/python_logo.svg" height="40" alt="Python" title="Python"/>
+  <img src="./Assets/languages/bash_logo.svg" height="40" alt="Bash" title="Bash"/>
+  <img src="./Assets/languages/r_logo.svg" height="40" alt="R" title="R"/>
+  <img src="./Assets/languages/perl_logo.svg" height="40" alt="Perl" title="Perl"/>
+  <img src="./Assets/languages/php_logo.svg" height="40" alt="PHP" title="PHP"/>
+  <img src="./Assets/languages/java_logo.svg" height="40" alt="Java" title="Java"/>
+  <img src="./Assets/languages/sql_logo.svg" height="40" alt="SQL" title="SQL"/>
+  <img src="./Assets/languages/javascript_logo.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="./Assets/languages/typescript_logo.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="./Assets/languages/html5_logo.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="./Assets/languages/css3_logo.svg" height="40" alt="CSS3" title="CSS3"/>
 </div>
 <hr>
 
 > Frameworks & Libraries
 
 <div display="flex">
-  <img src="./Assets/frameworks_and_libraries/laravel.svg" height="40" alt="Laravel" title="Laravel"/>
-  <img src="./Assets/frameworks_and_libraries/springboot.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
-  <img src="./Assets/frameworks_and_libraries/fastapi.svg" height="40" alt="FastAPI" title="FastAPI"/>
-  <img src="./Assets/frameworks_and_libraries/react.svg" height="40" alt="React" title="React"/>
-  <img src="./Assets/frameworks_and_libraries/nodejs.svg" height="40" alt="Node.js" title="Node JS"/>
-  <img src="./Assets/frameworks_and_libraries/tensorflow.svg" height="40" alt="TensorFlow" title="TensorFlow"/>
-  <img src="./Assets/frameworks_and_libraries/numpy.svg" height="40" alt="NumPy" title="NumPy"/>
-  <img src="./Assets/frameworks_and_libraries/pandas.svg" height="40" alt="Pandas" title="Pandas"/>
-  <img src="./Assets/frameworks_and_libraries/scikitlearn.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>
-  <img src="./Assets/frameworks_and_libraries/matplotlib.svg" height="40" alt="Matplotlib"/> 
-  <img src="./Assets/frameworks_and_libraries/seaborn.svg" height="40" alt="Seaborn" title="Seaborn"/>
-  <img src="./Assets/frameworks_and_libraries/tidyv.svg" height="40" alt="Tidyverse" title="Tidyverse"/>
-  <img src="./Assets/frameworks_and_libraries/biopython.svg" height="40" alt="Biopython" title="Biopython"/>
-  <img src="./Assets/frameworks_and_libraries/bioconductor.svg" height="40" alt="Bioconductor" title="Bioconductor"/>
+  <img src="./Assets/frameworks_and_libraries/laravel_logo.svg" height="40" alt="Laravel" title="Laravel"/>
+  <img src="./Assets/frameworks_and_libraries/springboot_logo.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
+  <img src="./Assets/frameworks_and_libraries/fastapi_logo.svg" height="40" alt="FastAPI" title="FastAPI"/>
+  <img src="./Assets/frameworks_and_libraries/react_logo.svg" height="40" alt="React" title="React"/>
+  <img src="./Assets/frameworks_and_libraries/nodejs_logo.svg" height="40" alt="Node.js" title="Node JS"/>
+  <img src="./Assets/frameworks_and_libraries/tensorflow_logo.svg" height="40" alt="TensorFlow" title="TensorFlow"/>
+  <img src="./Assets/frameworks_and_libraries/numpy_logo.svg" height="40" alt="NumPy" title="NumPy"/>
+  <img src="./Assets/frameworks_and_libraries/pandas_logo.svg" height="40" alt="Pandas" title="Pandas"/>
+  <img src="./Assets/frameworks_and_libraries/scikitlearn_logo.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>
+  <img src="./Assets/frameworks_and_libraries/matplotlib_logo.svg" height="40" alt="Matplotlib"/> 
+  <img src="./Assets/frameworks_and_libraries/seaborn_logo.svg" height="40" alt="Seaborn" title="Seaborn"/>
+  <img src="./Assets/frameworks_and_libraries/tidyverse_logo.svg" height="40" alt="Tidyverse" title="Tidyverse"/>
+  <img src="./Assets/frameworks_and_libraries/biopython_logo.svg" height="40" alt="Biopython" title="Biopython"/>
+  <img src="./Assets/frameworks_and_libraries/bioconductor_logo.svg" height="40" alt="Bioconductor" title="Bioconductor"/>
 </div>
 <hr>
 
