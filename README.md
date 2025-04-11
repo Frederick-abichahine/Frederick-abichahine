@@ -23,10 +23,10 @@
 <img align="center" width="3%" alt="three" src="Assets/three.gif"> Computational Neuroscience <br/>
 <img align="center" width="3%" alt="four" src="Assets/four.gif"> Computational Immunotherapy <br/>
 <img align="center" width="3%" alt="five" src="Assets/five.gif"> Computational Microbial Genomics <br/>
-<img align="center" width="3%" alt="six" src="Assets/six.gif"> Software Engineeing <br/>
+<img align="center" width="3%" alt="six" src="Assets/six.gif"> Software Engineering <br/>
 <img align="center" width="3%" alt="seven" src="Assets/seven.gif"> *and more...*
 
-### <img align="center" width="5%" alt="network" src="Assets/network.gif"> Reach out & connect with me to share & discuss inovative ideas:
+### <img align="center" width="5%" alt="network" src="Assets/network.gif"> Reach out & connect with me to share & discuss innovative ideas:
 <hr>
 
 <p align="left">
