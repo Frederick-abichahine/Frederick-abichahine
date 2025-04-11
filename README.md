@@ -78,29 +78,28 @@
 </div>
 <hr>
 
-<!-- > Tools & Platforms
+> Tools & Platforms
 
 <div display="flex">
-  <img src="./Assets" height="40" alt="git" title="Git"/>
-  <img src="./Assets" height="40" alt="github" title="GitHub"/>
-  <img src="./Assets" height="40" alt="docker" title="Docker"/>
-  <img src="./Assets" height="40" alt="anaconda" title="Anaconda"/>
-  <img src="./Assets" height="40" alt="postman" title="Postman"/>
-  <img src="./Assets" height="40" alt="mysql" title="MySQL"/>
-  <img src="./Assets" height="40" alt="mongodb" title="MongoDB"/>
-  <img src="./Assets" height="40" alt="jupyter" title="Jupyter"/>
-  <img src="./Assets" height="40" alt="vscode" title="VSCode"/>
-  <img src="./Assets" height="40" alt="eclipse" title="Eclipse"/>
-
-  <img src="./Assets" height="40" alt="markdown" title="Markdown"/>
-  <img src="./Assets" height="40" alt="ubuntu" title="Ubuntu"/>
-  <img src="./Assets" height="40" alt="powershell" title="PowerShell"/>
-  <img src="./Assets" height="40" alt="canva" title="Canva"/>
-  <img src="./Assets" height="40" alt="figma" title="Figma"/>
+  <img src="./Assets/tools_and_platforms/git_logo.svg" height="40" alt="git" title="Git"/>
+  <img src="./Assets/tools_and_platforms/github_logo.svg" height="40" alt="github" title="GitHub"/>
+  <img src="./Assets/tools_and_platforms/docker_logo.svg" height="40" alt="docker" title="Docker"/>
+  <img src="./Assets/tools_and_platforms/anaconda_logo.svg" height="40" alt="anaconda" title="Anaconda"/>
+  <img src="./Assets/tools_and_platforms/postman_logo.svg" height="40" alt="postman" title="Postman"/>
+  <img src="./Assets/tools_and_platforms/mysql_logo.svg" height="40" alt="mysql" title="MySQL"/>
+  <img src="./Assets/tools_and_platforms/mongodb_logo.svg" height="40" alt="mongodb" title="MongoDB"/>
+  <img src="./Assets/tools_and_platforms/vscode_logo.svg" height="40" alt="vscode" title="VSCode"/>
+  <img src="./Assets/tools_and_platforms/jupyter_logo.svg" height="40" alt="jupyter" title="Jupyter"/>
+  <img src="./Assets/tools_and_platforms/eclipse_logo.svg" height="40" alt="eclipse" title="Eclipse"/>
+  <img src="./Assets/tools_and_platforms/markdown_logo.svg" height="40" alt="markdown" title="Markdown"/>
+  <img src="./Assets/tools_and_platforms/ubuntu_logo.svg" height="40" alt="ubuntu" title="Ubuntu"/>
+  <img src="./Assets/tools_and_platforms/powershell_logo.svg" height="40" alt="powershell" title="PowerShell"/>
+  <img src="./Assets/tools_and_platforms/canva_logo.svg" height="40" alt="canva" title="Canva"/>
+  <img src="./Assets/tools_and_platforms/figma_logo.svg" height="40" alt="figma" title="Figma"/>
 </div>
 <hr>
 
-> Operating Systems
+<!-- > Operating Systems
 
 <div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows" alt="Windows"/>
