@@ -70,7 +70,7 @@
   <img src="./Assets/frameworks_and_libraries/numpy_logo.svg" height="40" alt="NumPy" title="NumPy"/>
   <img src="./Assets/frameworks_and_libraries/pandas_logo.svg" height="40" alt="Pandas" title="Pandas"/>
   <img src="./Assets/frameworks_and_libraries/scikitlearn_logo.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>
-  <img src="./Assets/frameworks_and_libraries/matplotlib_logo.svg" height="40" alt="Matplotlib"/> 
+  <img src="./Assets/frameworks_and_libraries/matplotlib_logo.svg" height="40" alt="Matplotlib" title="Matplotlib"/> 
   <img src="./Assets/frameworks_and_libraries/seaborn_logo.svg" height="40" alt="Seaborn" title="Seaborn"/>
   <img src="./Assets/frameworks_and_libraries/tidyverse_logo.svg" height="40" alt="Tidyverse" title="Tidyverse"/>
   <img src="./Assets/frameworks_and_libraries/biopython_logo.svg" height="40" alt="Biopython" title="Biopython"/>
