@@ -99,14 +99,12 @@
 </div>
 <hr>
 
-<!-- > Operating Systems
+> Operating Systems
 
 <div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows" alt="Windows"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="Linux" title="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" height="40" alt="macOS" title="macOS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" height="40" alt="Raspberry Pi" title="Raspberry Pi"/>
-</div> -->
+  <img src="./Assets/operating_systems/windows_logo.svg" height="40" alt="windows" title="Windows"/>
+  <img src="./Assets/operating_systems/linux_logo.svg" height="40" alt="linux" title="Linux"/>
+</div>
 
 ### <img align="center" width="5%" alt="stat" src="Assets/statistics.gif"> Some statistics:
 <hr>
