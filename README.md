@@ -89,8 +89,10 @@
   <img src="./Assets/tools_and_platforms/mysql_logo.svg" height="40" alt="mysql" title="MySQL"/>
   <img src="./Assets/tools_and_platforms/mongodb_logo.svg" height="40" alt="mongodb" title="MongoDB"/>
   <img src="./Assets/tools_and_platforms/vscode_logo.svg" height="40" alt="vscode" title="VSCode"/>
+  <img src="./Assets/tools_and_platforms/vim_logo.svg" height="40" alt="vim" title="Vim"/>
   <img src="./Assets/tools_and_platforms/jupyter_logo.svg" height="40" alt="jupyter" title="Jupyter"/>
   <img src="./Assets/tools_and_platforms/eclipse_logo.svg" height="40" alt="eclipse" title="Eclipse"/>
+  <img src="./Assets/tools_and_platforms/rstudio_logo.svg" height="40" alt="rstudio" title="RStudio"/>
   <img src="./Assets/tools_and_platforms/markdown_logo.svg" height="40" alt="markdown" title="Markdown"/>
   <img src="./Assets/tools_and_platforms/ubuntu_logo.svg" height="40" alt="ubuntu" title="Ubuntu"/>
   <img src="./Assets/tools_and_platforms/powershell_logo.svg" height="40" alt="powershell" title="PowerShell"/>
