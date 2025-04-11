@@ -44,17 +44,17 @@
 > Languages
 
 <div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" height="40" title="SQL" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="Perl"/>
+  <img src="./Assets/languages/python.svg" height="40" alt="Python"/>
+  <img src="./Assets/languages/r.svg" height="40" alt="R"/>
+  <img src="./Assets/languages/bash.svg" height="40" alt="Bash"/>
+  <img src="./Assets/languages/perl.svg" height="40" alt="Perl"/>
+  <img src="./Assets/languages/php.svg" height="40" alt="PHP"/>
+  <img src="./Assets/languages/java.svg" height="40" alt="Java"/>
+  <img src="./Assets/languages/sql.svg" height="40" title="SQL" alt="SQL"/>
+  <img src="./Assets/languages/javascript.svg" height="40" alt="JavaScript"/>
+  <img src="./Assets/languages/typescript.svg" height="40" alt="TypeScript"/>
+  <img src="./Assets/languages/html5.svg" height="40" alt="HTML5"/>
+  <img src="./Assets/languages/css3.svg" height="40" alt="CSS3"/>
 </div>
 <hr>
 
