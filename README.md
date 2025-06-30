@@ -10,10 +10,11 @@
 
 <img align="center" width="3%" alt="one" src="Assets/one.gif"> M.Sc. in Quantitative & Computational Biology @ [University of Trento (UniTn)](https://www.unitn.it/en) <br/>
 <img align="center" width="3%" alt="two" src="Assets/two.gif"> B.Sc. in Bioinformatics @ [Lebanese American University (LAU)](https://www.lau.edu.lb/) <br/>
-<img align="center" width="3%" alt="three" src="Assets/three.gif"> [Pencil artist](https://instagram.com/fred_draws) & chess player <br/>
-<img align="center" width="3%" alt="four" src="Assets/four.gif"> Exploring the neural world, one synapse at a time <br/>
-<img align="center" width="3%" alt="five" src="Assets/five.gif"> Researching to improve Anti-Microbial Resistance prediction using deep CNNs <br/>
-<img align="center" width="3%" alt="six" src="Assets/six.gif"> Sipping tea & blasting music while firing my neurons
+<img align="center" width="3%" alt="three" src="Assets/three.gif"> Mentored 400+ tech minds <br/>
+<img align="center" width="3%" alt="four" src="Assets/four.gif"> [Pencil artist](https://instagram.com/fred_draws) & chess player <br/>
+<img align="center" width="3%" alt="five" src="Assets/five.gif"> Exploring the neural world, one synapse at a time <br/>
+<img align="center" width="3%" alt="six" src="Assets/six.gif"> Researching to improve Anti-Microbial Resistance prediction using deep CNNs <br/>
+<img align="center" width="3%" alt="seven" src="Assets/seven.gif"> Sipping tea & blasting music while firing my neurons
 
 ### <img align="center" width="5%" alt="programmer" src="Assets/programmer.gif"> My interests:
 <hr>
