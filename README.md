@@ -1,9 +1,14 @@
-<h1 align="center">Hello World, I'm Frederick Abi Chahine <img align="center" width="7%" alt="wave" src="Assets/wave.gif"></h1>
-<h3 align="center"> <img align="center" width="5%" alt="r_arrow" src="Assets/right_arrow.gif">  Seeking & Spilling Knowledge  <img align="center" width="5%" alt="l_arrow" src="Assets/left_arrow.gif"></h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=60&lines=Hi,+I'm+Frederick+Abi+Chahine.;AI+%26+Bioinformatics+Engineer." alt="Typing Banner" />
+</h1>
 
 <p align="center">
-  <img src="Assets/glitchy_neuron.gif" alt="Glitchy Neuron" width="100%" height="250"/>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+greatest+scientists+are+artists+as+well.&author=Albert+Einstein&border=true&quoteColor=AAAAAA&authorColor=DDDDDD&backgroundColor=0d1117&symbolColor=00F7FF&borderColor=00F7FF" alt="Readme Quote">
+  </a>
 </p>
+
+<!-- <img src="Assets/glitchy_neuron.gif" alt="Glitchy Neuron" width="100%" height="220" /> -->
 
 ### <img align="center" width="5%" alt="chess" src="Assets/chess.gif"> About myself:
 <hr>
