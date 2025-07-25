@@ -11,7 +11,11 @@
 </p>
 
 <!-- ABOUT ME -->
-<pre><code style="color:#00FF00;">$ whoami --about</code></pre>
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">whoami --about</code>
+</div>
+
 <pre>
   [1] M.Sc. in Quantitative & Computational Biology @ <a href="https://www.unitn.it" target="_blank">University of Trento (UniTn)</a>
   [2] B.Sc. in Bioinformatics @ <a href="https://www.lau.edu.lb" target="_blank">Lebanese American University (LAU)</a>
@@ -23,7 +27,11 @@
 </pre>
 
 <!-- INTERESTS -->
-<pre><code style="color:#00FF00;">$ cat interests.txt</code></pre>
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">cat ~/interests.txt</code>
+</div>
+
 <pre>
   [1] Machine Learning & Artificial Intelligence
   [2] Precision Medicine
@@ -35,7 +43,11 @@
 </pre>
 
 <!-- CONTACT -->
-<pre><code style="color:#00FF00;">$ ssh connect@frederick</code></pre>
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">ssh connect@frederick</code>
+</div>
+
 <pre>
   [1] Email        : frederickabichahine@gmail.com
   [2] University   : frederick.abichahine@studenti.unitn.it
@@ -45,11 +57,26 @@
   [6] HackerRank   : <a href="https://www.hackerrank.com/freddyabichahine" target="_blank">hackerrank.com/freddyabichahine</a>
 </pre>
 
-<!-- TOOLS -->
-<pre><code style="color:#00FF00;">$ ls ~/toolkit</code></pre>
+<!-- TOOLKIT -->
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">tree ~/toolkit</code>
+</div>
+
 <pre>
-> Languages
+toolkit
+├── languages
+├── frameworks_and_libraries
+├── tools_and_platforms
+└── operating_systems
 </pre>
+
+<!-- LANGUAGES -->
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">ls ~/toolkit/languages</code>
+</div>
+
 <div>
   <img src="./Assets/languages/python_logo.svg" height="40" alt="Python" title="Python"/>
   <img src="./Assets/languages/bash_logo.svg" height="40" alt="Bash" title="Bash"/>
@@ -64,9 +91,12 @@
   <img src="./Assets/languages/css3_logo.svg" height="40" alt="CSS3" title="CSS3"/>
 </div>
 
-<pre>
-> Frameworks & Libraries
-</pre>
+<!-- FRAMEWORKS & LIBRARIES -->
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">ls ~/toolkit/frameworks_and_libraries</code>
+</div>
+
 <div>
   <img src="./Assets/frameworks_and_libraries/laravel_logo.svg" height="40" alt="Laravel" title="Laravel"/>
   <img src="./Assets/frameworks_and_libraries/springboot_logo.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
@@ -84,9 +114,12 @@
   <img src="./Assets/frameworks_and_libraries/bioconductor_logo.svg" height="40" alt="Bioconductor" title="Bioconductor"/>
 </div>
 
-<pre>
-> Tools & Platforms
-</pre>
+<!-- TOOLS & PLATFORMS -->
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">ls ~/toolkit/tools_and_platforms</code>
+</div>
+
 <div>
   <img src="./Assets/tools_and_platforms/git_logo.svg" height="40" alt="git" title="Git"/>
   <img src="./Assets/tools_and_platforms/github_logo.svg" height="40" alt="github" title="GitHub"/>
@@ -107,16 +140,23 @@
   <img src="./Assets/tools_and_platforms/figma_logo.svg" height="40" alt="figma" title="Figma"/>
 </div>
 
-<pre>
-> Operating Systems
-</pre>
+<!-- OPERATING SYSTEMS -->
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">ls ~/toolkit/operating_systems</code>
+</div>
+
 <div>
   <img src="./Assets/operating_systems/windows_logo.svg" height="40" alt="windows" title="Windows"/>
   <img src="./Assets/operating_systems/linux_logo.svg" height="40" alt="linux" title="Linux"/>
 </div>
 
 <!-- STATISTICS -->
-<pre><code style="color:#00FF00;">$ ./show_stats.sh</code></pre>
+<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <code style="color:#00FF00;">~/show_stats.sh</code>
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frederick-abichahine&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederick-abichahine&theme=radical" alt="Streak Stats" height="180" />
