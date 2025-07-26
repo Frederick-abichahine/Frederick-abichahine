@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=60&lines=Hi,+I'm+Frederick+Abi+Chahine.;AI+%26+Bioinformatics+Engineer." alt="Typing Banner" />
 </h1>
+</br>
 
 <!-- QUOTE -->
 <p align="center">
