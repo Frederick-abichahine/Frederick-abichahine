@@ -13,7 +13,7 @@
 
 <!-- ABOUT ME -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">whoami --about</code>
 </p>
 
@@ -29,7 +29,7 @@
 
 <!-- INTERESTS -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">cat ~/interests.txt</code>
 </p>
 
@@ -45,7 +45,7 @@
 
 <!-- CONTACT -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">ssh connect@frederick</code>
 </p>
 
@@ -60,7 +60,7 @@
 
 <!-- TOOLKIT -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">tree ~/toolkit</code>
 </p>
 
@@ -74,7 +74,7 @@ toolkit
 
 <!-- LANGUAGES -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">ls ~/toolkit/languages</code>
 </p>
 
@@ -93,8 +93,8 @@ toolkit
 </div>
 
 <!-- FRAMEWORKS & LIBRARIES -->
-<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">ls ~/toolkit/frameworks_and_libraries</code>
 </p>
 
@@ -116,8 +116,8 @@ toolkit
 </div>
 
 <!-- TOOLS & PLATFORMS -->
-<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">ls ~/toolkit/tools_and_platforms</code>
 </p>
 
@@ -142,8 +142,8 @@ toolkit
 </div>
 
 <!-- OPERATING SYSTEMS -->
-<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">ls ~/toolkit/operating_systems</code>
 </p>
 
@@ -154,7 +154,7 @@ toolkit
 
 <!-- STATISTICS -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
-  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
+  <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30" align="center">
   <code style="color:#00FF00;">~/show_stats.sh</code>
 </p>
 
