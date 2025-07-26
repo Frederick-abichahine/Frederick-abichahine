@@ -26,6 +26,7 @@
   [6] Researching to improve Anti-Microbial Resistance prediction using deep CNNs
   [7] Sipping tea & blasting music while firing my neurons
 </pre>
+</br>
 
 <!-- INTERESTS -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
@@ -42,6 +43,7 @@
   [6] Software Engineering
   [7] and more...
 </pre>
+</br>
 
 <!-- CONTACT -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
@@ -57,6 +59,7 @@
   [5] Twitter      : <a href="https://twitter.com/fredabichahine" target="_blank">twitter.com/fredabichahine</a>
   [6] HackerRank   : <a href="https://www.hackerrank.com/freddyabichahine" target="_blank">hackerrank.com/freddyabichahine</a>
 </pre>
+</br>
 
 <!-- TOOLKIT -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
@@ -71,6 +74,7 @@ toolkit
 ├── tools_and_platforms
 └── operating_systems
 </pre>
+</br>
 
 <!-- LANGUAGES -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
@@ -91,6 +95,7 @@ toolkit
   <img src="./assets/languages/html5_logo.svg" height="40" alt="HTML5" title="HTML5"/>
   <img src="./assets/languages/css3_logo.svg" height="40" alt="CSS3" title="CSS3"/>
 </div>
+</br>
 
 <!-- FRAMEWORKS & LIBRARIES -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
@@ -114,6 +119,7 @@ toolkit
   <img src="./assets/frameworks_and_libraries/biopython_logo.svg" height="40" alt="Biopython" title="Biopython"/>
   <img src="./assets/frameworks_and_libraries/bioconductor_logo.svg" height="40" alt="Bioconductor" title="Bioconductor"/>
 </div>
+</br>
 
 <!-- TOOLS & PLATFORMS -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
@@ -140,6 +146,7 @@ toolkit
   <img src="./assets/tools_and_platforms/canva_logo.svg" height="40" alt="canva" title="Canva"/>
   <img src="./assets/tools_and_platforms/figma_logo.svg" height="40" alt="figma" title="Figma"/>
 </div>
+</br>
 
 <!-- OPERATING SYSTEMS -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
@@ -151,6 +158,7 @@ toolkit
   <img src="./assets/operating_systems/windows_logo.svg" height="40" alt="windows" title="Windows"/>
   <img src="./assets/operating_systems/linux_logo.svg" height="40" alt="linux" title="Linux"/>
 </div>
+</br>
 
 <!-- STATISTICS -->
 <p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
