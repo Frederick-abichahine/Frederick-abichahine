@@ -11,10 +11,10 @@
 </p>
 
 <!-- ABOUT ME -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">whoami --about</code>
-</div>
+</p>
 
 <pre>
   [1] M.Sc. in Quantitative & Computational Biology @ <a href="https://www.unitn.it" target="_blank">University of Trento (UniTn)</a>
@@ -27,10 +27,10 @@
 </pre>
 
 <!-- INTERESTS -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">cat ~/interests.txt</code>
-</div>
+</p>
 
 <pre>
   [1] Machine Learning & Artificial Intelligence
@@ -43,10 +43,10 @@
 </pre>
 
 <!-- CONTACT -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">ssh connect@frederick</code>
-</div>
+</p>
 
 <pre>
   [1] Email        : frederickabichahine@gmail.com
@@ -58,10 +58,10 @@
 </pre>
 
 <!-- TOOLKIT -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">tree ~/toolkit</code>
-</div>
+</p>
 
 <pre>
 toolkit
@@ -72,10 +72,10 @@ toolkit
 </pre>
 
 <!-- LANGUAGES -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">ls ~/toolkit/languages</code>
-</div>
+</p>
 
 <div>
   <img src="./assets/languages/python_logo.svg" height="40" alt="Python" title="Python"/>
@@ -92,10 +92,10 @@ toolkit
 </div>
 
 <!-- FRAMEWORKS & LIBRARIES -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">ls ~/toolkit/frameworks_and_libraries</code>
-</div>
+</p>
 
 <div>
   <img src="./assets/frameworks_and_libraries/laravel_logo.svg" height="40" alt="Laravel" title="Laravel"/>
@@ -115,10 +115,10 @@ toolkit
 </div>
 
 <!-- TOOLS & PLATFORMS -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">ls ~/toolkit/tools_and_platforms</code>
-</div>
+</p>
 
 <div>
   <img src="./assets/tools_and_platforms/git_logo.svg" height="40" alt="git" title="Git"/>
@@ -141,10 +141,10 @@ toolkit
 </div>
 
 <!-- OPERATING SYSTEMS -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px; margin-top: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">ls ~/toolkit/operating_systems</code>
-</div>
+</p>
 
 <div>
   <img src="./assets/operating_systems/windows_logo.svg" height="40" alt="windows" title="Windows"/>
@@ -152,12 +152,16 @@ toolkit
 </div>
 
 <!-- STATISTICS -->
-<div style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
+<p style="display: flex; align-items: center; gap: 6px; margin-bottom: 10px;">
   <img alt="dollar" src="assets/dollar_sign.svg" height="30" width="30">
   <code style="color:#00FF00;">~/show_stats.sh</code>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frederick-abichahine&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederick-abichahine&theme=radical" alt="Streak Stats" height="180" />
+<div style="text-align: center;">
+    <div style="display: block; margin-bottom: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=frederick-abichahine&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" style="height: 180px; width: 400px;" />
+    </div>
+    <div style="display: block;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederick-abichahine&theme=radical" alt="Streak Stats" style="height: 180px; width: 400px;" />
+    </div>
 </div>
