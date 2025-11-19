@@ -22,9 +22,7 @@
   [2] B.Sc. in Bioinformatics @ <a href="https://www.lau.edu.lb" target="_blank">Lebanese American University (LAU)</a>
   [3] Mentored 400+ tech minds
   [4] <a href="https://instagram.com/fred_draws">Pencil artist</a> & chess player
-  [5] Exploring the neural world, one synapse at a time
-  [6] Researching to improve Anti-Microbial Resistance prediction using deep CNNs
-  [7] Sipping tea & blasting music while firing my neurons
+  [5] Researching to improve Anti-Microbial Resistance prediction using deep CNNs
 </pre>
 </br>
 
@@ -37,9 +35,9 @@
 <pre>
   [1] Machine Learning & Artificial Intelligence
   [2] Precision Medicine
-  [3] Computational Neuroscience
-  [4] Computational Immunotherapy
-  [5] Computational Microbial Genomics
+  [3] Mathematical Modeling & Simulations
+  [4] Computational Neuroscience
+  [5] Computational Immunotherapy
   [6] Software Engineering
   [7] and more...
 </pre>
@@ -55,7 +53,7 @@
   [1] Email        : frederickabichahine@gmail.com
   [2] University   : frederick.abichahine@studenti.unitn.it
   [3] LinkedIn     : <a href="https://linkedin.com/in/frederick-abi-chahine" target="_blank">linkedin.com/in/frederick-abi-chahine</a>
-  [4] Instagram    : <a href="https://instagram.com/fred_abichahine" target="_blank">instagram.com/fred_abichahine</a>
+  [4] Instagram    : <a href="https://instagram.com/frederick.a.chahine" target="_blank">instagram.com/frederick.a.chahine</a>
   [5] Twitter      : <a href="https://twitter.com/fredabichahine" target="_blank">twitter.com/fredabichahine</a>
   [6] HackerRank   : <a href="https://www.hackerrank.com/freddyabichahine" target="_blank">hackerrank.com/freddyabichahine</a>
 </pre>
