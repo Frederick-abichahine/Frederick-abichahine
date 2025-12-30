@@ -34,12 +34,13 @@
 
 <pre>
   [1] Machine Learning & Artificial Intelligence
-  [2] Precision Medicine
-  [3] Mathematical Modeling & Simulations
-  [4] Computational Neuroscience
-  [5] Computational Immunotherapy
-  [6] Software Engineering
-  [7] and more...
+  [2] Mathematical Modeling & Simulations
+  [3] Precision Medicine
+  [4] Computational Microbial Genomics
+  [5] Computational Neuroscience
+  [6] Computational Immunotherapy
+  [7] Software Engineering
+  [8] and more...
 </pre>
 </br>
 
@@ -54,8 +55,6 @@
   [2] University   : frederick.abichahine@studenti.unitn.it
   [3] LinkedIn     : <a href="https://linkedin.com/in/frederick-abi-chahine" target="_blank">linkedin.com/in/frederick-abi-chahine</a>
   [4] Instagram    : <a href="https://instagram.com/frederick.a.chahine" target="_blank">instagram.com/frederick.a.chahine</a>
-  [5] Twitter      : <a href="https://twitter.com/fredabichahine" target="_blank">twitter.com/fredabichahine</a>
-  [6] HackerRank   : <a href="https://www.hackerrank.com/freddyabichahine" target="_blank">hackerrank.com/freddyabichahine</a>
 </pre>
 </br>
 
@@ -84,6 +83,7 @@ toolkit
   <img src="./assets/languages/python_logo.svg" height="40" alt="Python" title="Python"/>
   <img src="./assets/languages/bash_logo.svg" height="40" alt="Bash" title="Bash"/>
   <img src="./assets/languages/r_logo.svg" height="40" alt="R" title="R"/>
+  <img src="./assets/languages/matlab_logo.svg" height="40" alt="Matlab" title="Matlab"/>
   <img src="./assets/languages/perl_logo.svg" height="40" alt="Perl" title="Perl"/>
   <img src="./assets/languages/php_logo.svg" height="40" alt="PHP" title="PHP"/>
   <img src="./assets/languages/java_logo.svg" height="40" alt="Java" title="Java"/>
