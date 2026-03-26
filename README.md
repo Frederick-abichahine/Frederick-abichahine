@@ -22,7 +22,7 @@
   [2] B.Sc. in Bioinformatics @ <a href="https://www.lau.edu.lb" target="_blank">Lebanese American University (LAU)</a>
   [3] Mentored 400+ tech minds
   [4] <a href="https://instagram.com/fred_draws">Pencil artist</a> & chess player
-  [5] Researching to improve Anti-Microbial Resistance prediction using deep CNNs
+  [5] Integrating machine learning and mathematical modeling to support the development and optimization of mRNA-based therapeutics
 </pre>
 </br>
 
@@ -33,12 +33,12 @@
 </p>
 
 <pre>
-  [1] Machine Learning & Artificial Intelligence
-  [2] Mathematical Modeling & Simulations
-  [3] Precision Medicine
-  [4] Computational Microbial Genomics
-  [5] Computational Neuroscience
-  [6] Computational Immunotherapy
+  [1] Mathematical Modeling & Simulations
+  [2] Machine Learning & Artificial Intelligence
+  [3] Computational Immunotherapy
+  [4] Computational Neuroscience
+  [5] Precision Medicine
+  [6] Computational Microbial Genomics
   [7] Software Engineering
   [8] and more...
 </pre>
